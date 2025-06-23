@@ -17,7 +17,7 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 
 ---
 
-## 🛠️ Features Overview
+## 🛠️ Feature Breakdown
 
 ### 1️⃣ API Documentation
 - **OpenAPI Standard**: APIs are documented using OpenAPI for clarity and ease of integration.
